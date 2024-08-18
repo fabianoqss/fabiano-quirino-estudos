@@ -1,0 +1,11 @@
+Meu nome é Fabiano , tenho 24 anos ,atualmente estou no 5° período cursando Ciências Da Computação na Unipê.
+Os Conhecimentos Que eu Já possuo:
+- Design UI e UX , com protótipos no Figma.
+- Git/GitHub.
+- Banco De Dados MYSQL, Potgres e H2.
+- Conhecimento médio/avançado em Java.
+- Conhecimento Básico em Spring Boot.
+- Conhecimento em HTML e CSS.
+- Conhecimento Básico em JavaScript.
+- Conhecimento Básico em Modelagem de Dados UML.
+- Faço Uso de alguns livros pessoais: Clean Code , Refatoração e Arquitetura Limpa.
