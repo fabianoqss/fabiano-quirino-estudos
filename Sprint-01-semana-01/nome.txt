@@ -9,3 +9,12 @@ Os Conhecimentos Que eu Já possuo:
 - Conhecimento Básico em JavaScript.
 - Conhecimento Básico em Modelagem de Dados UML.
 - Faço Uso de alguns livros pessoais: Clean Code , Refatoração e Arquitetura Limpa.
+
+O Que eu gosto de fazer nas horas vagas ?
+- Ler Livros.
+- Jogar Bola.
+- Assistir Filmes ou Séries.
+- Sair de casa pra comer besteira.
+- Academia.
+- Sair de casa pra conversar.
+- Praia.
