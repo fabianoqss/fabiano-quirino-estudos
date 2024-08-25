@@ -1,6 +1,9 @@
 body {
   background-color: #ff6064;
+  min-height: 100vh;
+  display: grid;
   justify-content: center;
+  align-items: center;
 }
 
 img {
@@ -9,10 +12,8 @@ img {
 }
 
 .imagens {
-  height: 1000px;
   display: grid;
-  justify-content: center;
-  align-items: center;
+  gap: 300px;
 }
 
 #Img-logo {
