@@ -1,0 +1,25 @@
+body {
+  background-color: #ff6064;
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.imagens {
+  height: 1000px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+#Img-logo {
+  width: 300px;
+  height: 300px;
+}
+
+#Img-loading {
+  justify-self: center;
+}
